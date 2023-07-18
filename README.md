@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Danila" alt="name" /></p>
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hello%2C+my+name+is+Danila" alt="name" /></p>
 
 ### Contact me:
 
