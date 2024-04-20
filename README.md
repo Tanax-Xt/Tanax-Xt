@@ -1,20 +1,3 @@
-
-<!--
-**Tanax-Xt/Tanax-Xt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hello%2C+my+name+is+Danila" alt="name" /></p>
 
 ### Contact me:
@@ -34,6 +17,9 @@ Here are some ideas to get you started:
 </p>
 
 ### My stats:
+[![ActivityOverviewDark](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanax-Xt&theme=dark)](https://github.com/Tanax-Xt?tab=repositories&q=&type=&language=&sort=name#gh-dark-mode-only)
+[![ActivityOverviewDark](https://github-readme-stats.vercel.app/api?username=Tanax-Xt&show_icons=true&title_color=2f81f7&text_color=e6edf3&icon_color=7d8590&border_color=30363d&bg_color=00000000&custom_title=Activity%20Overview&count_private=true#gh-dark-mode-only)](https://github.com/Tanax-Xt?tab=repositories&q=&type=&language=&sort=name#gh-dark-mode-only)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanax-Xt&show_icons=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanax-Xt" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![ActivityOverviewLight](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanax-Xt)](https://github.com/Tanax-Xt?tab=repositories&q=&type=&language=&sort=name#gh-light-mode-only)
+[![ActivityOverviewLight](https://github-readme-stats.vercel.app/api?username=Tanax-Xt&show_icons=true&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=d0d7de&theme=default&custom_title=GitHub%20Activity%20Overview&count_private=true#gh-light-mode-only)](https://github.com/Tanax-Xt?tab=repositories&q=&type=&language=&sort=name#gh-light-mode-only)
