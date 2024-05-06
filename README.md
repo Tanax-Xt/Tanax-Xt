@@ -3,7 +3,6 @@
 ### Contact me:
 
 - **Telegram:** [t.me/forever_molodoy](https://t.me/forever_molodoy)
-- **VK:** [vk.com/forever.molodoy](https://vk.com/forever.molodoy)
 
 ### My favourite languages, tool and os:
 
