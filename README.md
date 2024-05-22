@@ -1,5 +1,8 @@
 <p><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%233772DF&center=true&lines=%F0%9F%91%8B+Hello%2C+my+name+is+Danila" alt="name" /></p>
 
+<p>Hi, my name is Danila</p>
+<p>I am a backend developer 💻</p>
+
 ### Contact me:
 
 - **Telegram:** [t.me/forever_molodoy](https://t.me/forever_molodoy)
@@ -7,12 +10,9 @@
 ### My favourite languages, tool and os:
 
 <p align="left">
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-<a href="https://github.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jb" width="40" height="40"/> </a>
-<a href="https://apple.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pycharm,flask,django,fastapi,github,git,docker,bots,bootstrap,postman,ps,apple" />
+  </a>
 </p>
 
 ### My stats:
