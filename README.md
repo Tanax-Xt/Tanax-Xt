@@ -7,13 +7,11 @@
 
 - **Telegram:** [t.me/forever_molodoy](https://t.me/forever_molodoy)
 
-### My favourite languages, tool and os:
+### My favourite language, tools and os:
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pycharm,flask,django,fastapi,github,git,docker,bots,bootstrap,postman,ps,apple" />
-  </a>
-</p>
+[![ActivityOverviewLight](https://skillicons.dev/icons?i=py,sqlite,postgres,flask,django,fastapi,github,git,docker,bots,bootstrap,pycharm,postman,ps,apple&theme=light)](https://github.com/Tanax-Xt#gh-light-mode-only)
+[![ActivityOverviewDark](https://skillicons.dev/icons?i=py,sqlite,postgres,flask,django,fastapi,github,git,docker,bots,bootstrap,pycharm,postman,ps,apple&theme=dark)](https://github.com/Tanax-Xt#gh-dark-mode-only)
+
 
 ### My stats:
 [![ActivityOverviewDark](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanax-Xt&theme=dark)](https://github.com/Tanax-Xt?tab=repositories&q=&type=&language=&sort=name#gh-dark-mode-only)
