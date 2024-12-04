@@ -2,6 +2,7 @@
 
 <p>Hi, my name is Danila</p>
 <p>I am a backend developer 💻</p>
+<p>HSE Lyceum'26</p>
 
 ### Contact me:
 
@@ -9,8 +10,8 @@
 
 ### My favourite language, tools and os:
 
-[![ActivityOverviewLight](https://skillicons.dev/icons?i=py,sqlite,postgres,flask,django,fastapi,github,git,docker,bots,bootstrap,pycharm,postman,ps,apple&theme=light)](https://github.com/Tanax-Xt#gh-light-mode-only)
-[![ActivityOverviewDark](https://skillicons.dev/icons?i=py,sqlite,postgres,flask,django,fastapi,github,git,docker,bots,bootstrap,pycharm,postman,ps,apple&theme=dark)](https://github.com/Tanax-Xt#gh-dark-mode-only)
+[![ActivityOverviewLight](https://skillicons.dev/icons?i=py,postgres,django,fastapi,flask,github,git,docker,bots,bootstrap,pycharm,postman,apple&theme=light)](https://github.com/Tanax-Xt#gh-light-mode-only)
+[![ActivityOverviewDark](https://skillicons.dev/icons?i=py,postgres,django,fastapi,flask,github,git,docker,bots,bootstrap,pycharm,postman,apple&theme&theme=dark)](https://github.com/Tanax-Xt#gh-dark-mode-only)
 
 
 ### My stats:
