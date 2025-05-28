@@ -9,9 +9,9 @@
 
 - **Telegram:** [t.me/forever_molodoy](https://t.me/forever_molodoy)
 
-### My favourite language, tools and os:
-[![ActivityOverviewLight](https://skillicons.dev/icons?i=py,kotlin,java,postgres,fastapi,django,flask,git,docker,prometheus,grafana,spring,bots,pycharm,postman,apple&theme=light)](https://github.com/Tanax-Xt#gh-light-mode-only)
-[![ActivityOverviewDark](https://skillicons.dev/icons?i=py,kotlin,java,postgres,fastapi,django,flask,git,docker,prometheus,grafana,spring,bots,pycharm,postman,apple&theme=dark)](https://github.com/Tanax-Xt#gh-dark-mode-only)
+### My favourite language and tools:
+[![ActivityOverviewLight](https://skillicons.dev/icons?i=py,kotlin,java,postgres,fastapi,django,flask,git,docker,prometheus,grafana,spring,bots,pycharm,postman&theme=light)](https://github.com/Tanax-Xt#gh-light-mode-only)
+[![ActivityOverviewDark](https://skillicons.dev/icons?i=py,kotlin,java,postgres,fastapi,django,flask,git,docker,prometheus,grafana,spring,bots,pycharm,postman&theme=dark)](https://github.com/Tanax-Xt#gh-dark-mode-only)
 
 ### My stats:
 [![ActivityOverviewDark](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanax-Xt&theme=dark)](https://github.com/Tanax-Xt?tab=repositories&q=&type=&language=&sort=name#gh-dark-mode-only)
